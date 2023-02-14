@@ -1,0 +1,44 @@
+testinfo:
+      - id: test_login001
+        title: 登录测试
+        info: 打开云之家首页
+testcase:
+#      - element_info: //*[@id="headLogin"]/a[2]
+#        find_type: XPATH
+#        operate_type: click
+#        info: 打开登录对话框
+#      - element_info: /html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]
+#        find_type: XPATH
+#        operate_type: click
+#        info: 切换到账号密码登录
+
+      - element_info: email
+        find_type: ID
+        operate_type: send_keys
+        info: 输入手机号
+      - element_info: password
+        find_type: ID
+        operate_type: send_keys
+        info: 输入密码
+      - element_info: log-btn
+        find_type: ID
+        operate_type: click
+        info: 单击登录按钮
+      - element_info: /html/body/header/div[3]/div[2]
+        find_type: XPATH
+        operate_type: perform
+        info: 鼠标悬停右上角用户名
+      - element_info: /html/body/header/div[3]/div[2]/ul/li[5]
+        find_type: XPATH
+        operate_type: click
+        info: 退出按钮
+check:
+      - element_info: /html/body/div[6]/div/div/span
+        find_type: XPATH
+        info: 登录异常情况
+      - element_info: //*[@id="home-user_name"]
+        find_type: XPATH
+        info: 成功登录
+      - element_info: //*[@id="headLogin"]/a[1]
+        find_type: XPATH
+        info: 检查退出登录是否成功

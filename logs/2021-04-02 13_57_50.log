@@ -1,0 +1,5 @@
+[2021-04-02 13:58:04,855] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035E8E10>页面中未能找到('id', 'email')元素
+[2021-04-02 13:58:15,368] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035E8EB8>页面中未能找到('id', 'email')元素
+[2021-04-02 13:58:25,894] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035E8C18>页面中未能找到('id', 'email')元素
+[2021-04-02 13:58:36,415] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035E87B8>页面中未能找到('id', 'email')元素
+[2021-04-02 13:58:46,973] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035E8710>页面中未能找到('id', 'email')元素

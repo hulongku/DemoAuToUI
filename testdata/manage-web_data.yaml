@@ -1,0 +1,6 @@
+-
+  id: test_manage-web001.1
+  detail : 进入管理中心
+  screenshot : enter_manage_success
+  check :
+     - 管理中心

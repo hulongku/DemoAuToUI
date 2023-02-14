@@ -1,0 +1,8 @@
+[2021-04-02 16:31:44,816] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618EF0> 页面中未能找到 id 元素
+[2021-04-02 16:31:44,817] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618EF0> 页面中未能找到 id 元素
+[2021-04-02 16:31:47,439] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618320> 页面中未能找到 id 元素
+[2021-04-02 16:31:47,439] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618320> 页面中未能找到 id 元素
+[2021-04-02 16:31:49,996] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618470> 页面中未能找到 id 元素
+[2021-04-02 16:31:50,019] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618470> 页面中未能找到 id 元素
+[2021-04-02 16:31:52,209] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618C88> 页面中未能找到 id 元素
+[2021-04-02 16:31:52,210] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618C88> 页面中未能找到 id 元素

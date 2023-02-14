@@ -1,0 +1,17 @@
+testinfo:
+      - id: test_intologin001
+        title: 进入账号密码登录页
+        info: 进入登录页，切换到账号密码登录
+testcase:
+      - element_info: //*[@id="headLogin"]/a[2]
+        find_type: XPATH
+        operate_type: click
+        info: 打开登录对话框
+      - element_info: /html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]
+        find_type: XPATH
+        operate_type: click
+        info: 切换到账号密码登录
+check:
+      - element_info: /html/body/div[1]/div[5]/div[2]/div/div/div[1]/form/div[4]/p[1]/span
+        find_type: XPATH
+        info: 进入账号密码登录页成功

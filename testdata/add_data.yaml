@@ -1,0 +1,54 @@
+-
+  id: test_add001.1
+  detail : 手机号和姓名为空新增人员
+  screenshot : phone_name_empty
+  data:
+    phone: ""
+    name: ""
+  check :
+     - 该手机号码格式错误
+-
+  id: test_add001.2
+  detail : 姓名为空新增人员
+  screenshot : name_empty
+  data :
+    phone: "17200888001"
+    name : ""
+  check :
+    - 姓名不能为空
+-
+  id: test_add001.3
+  detail : 手机号为空新增人员
+  screenshot : phone_empty
+  data :
+    phone : ""
+    name: 测试
+  check :
+    - 该手机号码格式错误
+-
+  id: test_add001.4
+  detail : 手机号格式错误新增人员
+  screenshot : phone_error
+  data :
+    phone : 123456
+    name: 测试
+  check :
+    - 该手机号码格式错误
+-
+  id: test_add001.5
+  detail : 添加成功
+  screenshot : pawd_error
+  data :
+    phone : 17200888002
+    name: 88002
+  check :
+    - 用户名或密码错误
+-
+  id: test_login001.6
+  detail : 手机号和密码正确
+  screenshot : phone_pawd_success
+  data :
+    phone : 17200138002
+    password: 1234567a
+  check :
+    - "7002"

@@ -1,0 +1,16 @@
+-
+  id: test_intologin001.1
+  detail : 进入登录页面
+  screenshot : intologin_success
+  data:
+  check :
+     - 短信验证码登录
+#-
+#  id: test_login001.6
+#  detail : 手机号和密码正确
+#  screenshot : phone_pawd_success
+#  data :
+#    phone : 17200138001
+#    password: 123456
+#  check :
+#    - "7001"

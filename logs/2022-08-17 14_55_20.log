@@ -1,0 +1,6 @@
+[2022-08-17 14:56:20,144] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633748>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素
+[2022-08-17 14:56:54,986] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633470>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素
+[2022-08-17 14:57:28,641] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633748>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素
+[2022-08-17 14:58:23,411] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633EF0>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素
+[2022-08-17 14:59:18,531] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633C18>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素
+[2022-08-17 15:00:13,436] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003633748>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素

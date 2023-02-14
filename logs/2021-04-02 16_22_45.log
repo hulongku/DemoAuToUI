@@ -1,0 +1,13 @@
+[2021-04-02 16:23:02,931] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF630> 页面中未能找到 id 元素
+[2021-04-02 16:23:02,931] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF630> 页面中未能找到 id 元素
+[2021-04-02 16:23:05,528] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF4E0> 页面中未能找到 id 元素
+[2021-04-02 16:23:05,528] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF4E0> 页面中未能找到 id 元素
+[2021-04-02 16:23:08,154] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFF60> 页面中未能找到 id 元素
+[2021-04-02 16:23:08,154] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFF60> 页面中未能找到 id 元素
+[2021-04-02 16:23:10,330] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF6D8> 页面中未能找到 id 元素
+[2021-04-02 16:23:10,330] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BF6D8> 页面中未能找到 id 元素
+[2021-04-02 16:23:12,501] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFCC0> 页面中未能找到 id 元素
+[2021-04-02 16:23:12,502] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFCC0> 页面中未能找到 id 元素
+[2021-04-02 16:23:14,661] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFF60> 页面中未能找到 id 元素
+[2021-04-02 16:23:14,661] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFF60> 页面中未能找到 id 元素
+[2021-04-02 16:23:30,253] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035BFF60>页面中未能找到('xpath', '/html/body/div[2]/div/div[2]/span')元素

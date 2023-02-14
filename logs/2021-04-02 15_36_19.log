@@ -1,0 +1,6 @@
+[2021-04-02 15:36:19,856] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
+[2021-04-02 15:36:19,859] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.2 ; 测试点-> 手机号为空登录
+[2021-04-02 15:36:19,861] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.3 ; 测试点-> 密码为空登录
+[2021-04-02 15:36:19,864] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.4 ; 测试点-> 非法手机号登录
+[2021-04-02 15:36:19,865] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.5 ; 测试点-> 手机号与密码不匹配
+[2021-04-02 15:36:19,867] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.6 ; 测试点-> 手机号和密码正确

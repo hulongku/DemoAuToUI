@@ -1,0 +1,1 @@
+[2022-12-20 20:01:47,732] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x0000000002ECDE80>页面中未能找到('xpath', '//*[@id="app"]/div[1]/div[2]/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/div[1]')元素

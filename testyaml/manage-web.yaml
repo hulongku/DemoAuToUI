@@ -1,0 +1,19 @@
+testinfo:
+      - id: test_manage-web001
+        title: 管理中心
+        info: 进入管理中心
+testcase:
+      - element_info: /html/body/header/div[2]/div/div[3]/ul/li[1]
+        find_type: XPATH
+        operate_type: perform
+        info: 管理中心悬停
+
+#     - element_info: /html/body/div[2]/div/div[3]/ul/li[7]/a
+      - element_info: /html/body/header/div[2]/div/div[3]/ul/li[1]/ul/div/li[3]
+        find_type: XPATH
+        operate_type: click
+        info: 管理中心按钮
+check:
+      - element_info: title yl-ellipsis
+        info: 进入成功
+

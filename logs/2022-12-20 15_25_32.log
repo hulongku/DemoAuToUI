@@ -1,0 +1,8 @@
+[2022-12-20 15:25:32,036] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_intologin001.1 ; 测试点-> 进入登录页面
+[2022-12-20 15:25:32,037] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
+[2022-12-20 15:25:32,038] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.2 ; 测试点-> 手机号为空登录
+[2022-12-20 15:25:32,039] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.3 ; 测试点-> 密码为空登录
+[2022-12-20 15:25:32,040] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.4 ; 测试点-> 非法手机号登录
+[2022-12-20 15:25:32,040] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.5 ; 测试点-> 手机号与密码不匹配
+[2022-12-20 15:25:32,041] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.6 ; 测试点-> 手机号和密码正确
+[2022-12-20 15:25:32,041] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_manage-web001.1 ; 测试点-> 进入管理中心

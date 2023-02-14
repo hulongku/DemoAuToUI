@@ -1,0 +1,4 @@
+[2022-08-17 15:18:24,695] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
+[2022-08-17 15:19:17,896] [log.py|__console] [line:40] INFO    : 检查点-> 请输入有效手机号码。
+[2022-08-17 15:19:17,977] [log.py|__console] [line:40] INFO    : 异常登录，返回实际结果是->: 请输入有效手机号码。
+[2022-08-17 15:23:37,313] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003613780>页面中未能找到('xpath', '/html/body/div[2]/div/div[2]/span')元素

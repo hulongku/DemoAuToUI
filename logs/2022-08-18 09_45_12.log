@@ -1,0 +1,3 @@
+[2022-08-18 09:46:29,367] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003480908>页面中未能找到('xpath', '/html/body/div[6]/div/div/span')元素
+[2022-08-18 09:47:01,547] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000036031D0>页面中未能找到('xpath', '/html/body/div[6]/div/div/span')元素
+[2022-08-18 09:47:37,949] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003603D30>页面中未能找到('xpath', '/html/body/div[2]/div/div[2]/span')元素

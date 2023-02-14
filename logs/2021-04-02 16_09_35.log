@@ -1,0 +1,1 @@
+[2021-04-02 16:10:31,481] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003618D30>页面中未能找到('xpath', '/html/body/div[2]/div/div[2]/span')元素
