@@ -1,7 +1,0 @@
-[2022-08-18 13:51:51,525] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
-[2022-08-18 13:52:17,305] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003683BE0>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素
-[2022-08-18 13:52:38,569] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x000000000347F828>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素
-[2022-08-18 13:52:39,359] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003683B00>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素
-[2022-08-18 13:52:59,816] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000036834E0>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素
-[2022-08-18 13:53:00,591] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003683FD0>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素
-[2022-08-18 13:53:21,035] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003683DD8>页面中未能找到('xpath', '//*[@id="headLogin"]/a[2]')元素

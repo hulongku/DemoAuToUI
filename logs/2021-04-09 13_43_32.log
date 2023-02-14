@@ -1,2 +1,0 @@
-[2021-04-09 13:44:40,359] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003692F60>页面中未能找到('id', 'email')元素
-[2021-04-09 13:45:40,034] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x000000000367AD68>页面中未能找到('xpath', '//*[@id="team-overview"]/div[1]/div[2]/div[1]/span[1]')元素

@@ -1,1 +1,0 @@
-[2022-08-18 10:08:20,439] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003480908>页面中未能找到('xpath', '/html/body/div[6]/div/div/span')元素

@@ -1,1 +1,0 @@
-[2022-12-20 15:47:54,349] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003703A90>页面中未能找到('xpath', '//*[@id="home-user_name"]')元素

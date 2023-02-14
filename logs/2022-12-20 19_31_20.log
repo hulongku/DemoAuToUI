@@ -1,2 +1,0 @@
-[2022-12-20 19:32:30,644] [log.py|__console] [line:46] ERROR   : 鼠标悬停事件异常异常-> move_to requires a WebElement
-[2022-12-20 19:32:40,693] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x00000000036A6518>页面中未能找到('xpath', '/html/body/header/div[2]/div/div[3]/ul/li[1]/ul/div/li[3]')元素

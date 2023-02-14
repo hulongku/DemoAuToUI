@@ -1,3 +1,0 @@
-[2021-04-02 14:06:09,239] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.2 ; 测试点-> 手机号为空登录
-[2021-04-02 14:06:09,544] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.3 ; 测试点-> 密码为空登录
-[2021-04-02 14:06:09,863] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.4 ; 测试点-> 非法手机号登录

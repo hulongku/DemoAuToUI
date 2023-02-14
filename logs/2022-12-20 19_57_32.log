@@ -1,2 +1,0 @@
-[2022-12-20 19:58:43,216] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003555390>页面中未能找到('xpath', '/html/body/div[6]/div/div/span')元素
-[2022-12-20 19:59:04,260] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x0000000003555630>页面中未能找到('xpath', '//*[@id="app"]/div[1]/div[2]/div[1]/div/div/div[2]/div[2]/div/div[2]/div[2]/div[1]')元素

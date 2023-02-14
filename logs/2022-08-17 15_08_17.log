@@ -1,2 +1,0 @@
-[2022-08-17 15:08:18,014] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
-[2022-08-17 15:09:33,997] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000035A3780>页面中未能找到('xpath', '/html/body/div[1]/div[5]/div[2]/div/div/h3/div[2]')元素

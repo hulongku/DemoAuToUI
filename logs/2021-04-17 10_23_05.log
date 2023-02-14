@@ -1,2 +1,0 @@
-[2021-04-17 10:23:05,998] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_manage-web001.1 ; 测试点-> 进入管理中心
-[2021-04-17 10:24:25,069] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x00000000037AB320>页面中未能找到('id', 'email')元素

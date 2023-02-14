@@ -1,2 +1,0 @@
-[2022-12-21 11:34:15,302] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x000000000361A358>页面中未能找到('xpath', '/html/body/div[6]/div/div/span')元素
-[2022-12-21 11:34:40,858] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x00000000035316A0>页面中未能找到('class name', 'title yl-ellipsis')元素

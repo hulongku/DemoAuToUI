@@ -1,2 +1,0 @@
-[2022-06-08 17:14:34,535] [log.py|__console] [line:40] INFO    : 当前执行测试用例ID-> test_login001.1 ; 测试点-> 手机号和密码为空登录
-[2022-06-08 17:18:13,130] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x000000000311AC50>页面中未能找到('xpath', '/html/body/div[2]/div/div[2]/span')元素

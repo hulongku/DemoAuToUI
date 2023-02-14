@@ -1,1 +1,0 @@
-[2021-04-09 10:53:38,516] [log.py|__console] [line:46] ERROR   : <public.page_obj.managePage.Manage object at 0x00000000035B1B00>页面中未能找到('xpath', '//*[@id="team-overview"]/div[1]/div[2]/div[1]/span[1]')元素

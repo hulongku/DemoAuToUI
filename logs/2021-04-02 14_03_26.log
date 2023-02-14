@@ -1,1 +1,0 @@
-[2021-04-02 14:03:39,378] [log.py|__console] [line:46] ERROR   : <public.page_obj.loginPage.Login object at 0x0000000003609FD0>页面中未能找到('id', 'email')元素
